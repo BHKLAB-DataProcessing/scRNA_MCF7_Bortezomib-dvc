@@ -1,0 +1,4 @@
+outs:
+- md5: e2ea3cb60d99f1cb495beb89ce13c666
+  size: 46051091
+  path: scRNA_MCF7_Bortezomib.rds
